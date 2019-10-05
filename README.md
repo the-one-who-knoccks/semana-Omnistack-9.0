@@ -21,3 +21,16 @@ Projeto aircnc (baseado no airbnb) da semana Omnistack da Rocketseat
 # 05 Aplicação Mobile - Área de reserva com a empresa/spot.
 <img src="Preview/prev03.png">
 </br>
+
+# 06 Aplicação Mobile - Mensagem de envio de soliçatção enviada.
+<img src="Preview/prev02.png">
+</br>
+
+# 07 Aplicação Mobile - Mensagem de solicitação APROVADA.
+<img src="Preview/prev01.png">
+</br>
+
+# 08 Aplicação Mobile - Mensagem de solicitação RECUSADA.
+<img src="Preview/prev08.png">
+</br>
+
