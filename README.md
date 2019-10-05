@@ -18,5 +18,5 @@ Projeto aircnc (baseado no airbnb) da semana Omnistack da Rocketseat
 </br>
 
 # 01 Aplicação Mobile - Área de Login.
-<img src="Preview/prev04.png">
+<img src="Preview/previ04.png">
 </br>
