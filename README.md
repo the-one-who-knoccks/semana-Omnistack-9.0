@@ -22,7 +22,7 @@ Projeto aircnc (baseado no airbnb) da semana Omnistack da Rocketseat
 <img src="Preview/prev03.png">
 </br>
 
-# 06 Aplicação Mobile - Mensagem de envio de soliçatção enviada.
+# 06 Aplicação Mobile - Mensagem de envio de solicitação enviada.
 <img src="Preview/prev02.png">
 </br>
 
