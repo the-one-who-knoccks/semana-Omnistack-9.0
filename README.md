@@ -1,7 +1,8 @@
 # Omnistack 9.0
 Projeto aircnc (baseado no airbnb) da semana Omnistack da Rocketseat
 
-# Tecnologias usadas: NodeJS/Backend, React/Web, React-native/Mobile e MongoDB/Banco de dados.
+# Tecnologias usadas
+NodeJS/Backend, React/Web, React-native/Mobile e MongoDB/Banco de dados.
 
 # 01 Aplicação Web - Área de Login.
 <img src="Preview/prev07.png">
